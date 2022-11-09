@@ -36,6 +36,34 @@ geordnet können sie mit nummerierter ordnung erstellt werden:
 1. Man kann hintereinanderfolgende Nummern benutzen
 1. ...oder man setzt alle als `1.`
 
+## Code
+
+Inline `code`
+
+Indented code
+
+    // Some comments
+    
+    line 2 of code
+    line 3 of code
+
+
+Block code "fences"
+
+```
+Sample text here...
+```
+
+Syntax highlighting
+
+``` js
+var foo = function (bar) {
+  return bar++;
+};
+
+console.log(foo(5));
+```
+
 ## Tabellen
 
 | Option | Description |
@@ -53,3 +81,22 @@ geordnet können sie mit nummerierter ordnung erstellt werden:
 | ext    | extension to be used for dest files. |
 
 
+##Blockzitate
+
+> Blockzitate werden mit ">" gekennzeichnet
+>> mit mehreren werden diese mehr eingeschoben
+> > > man kann auch Platz zwischen diesen haben
+
+## [Fußnote](https://github.com/markdown-it/markdown-it-footnote)
+
+Footnote 1 link[^first].
+[^first]: Fußnote
+diese können mit einem [^beispiel] nach dem wort gesetzt werden aber sie müssen deklariert werden mit [^bsp]: bsp
+
+
+
+#Quellen
+
+[Wikipedia](https://de.wikipedia.org/wiki/Markdown)
+[markdown demo](https://markdown-it.github.io/)
+[Footnotes](https://github.com/markdown-it/markdown-it-footnote)
