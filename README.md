@@ -93,6 +93,18 @@ man kann code mit drei anführungszeichen am anfang und ende vom code
 Footnote 1 link[^first].
 [^first]: Fußnoten können mit einem [^beispiel] nach dem wort gesetzt werden aber sie müssen deklariert werden mit [^bsp]: bsp
 
+### Task listen
+z.B: Solar System Exploration, 1950s – 1960s
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
+
 ## hochgestellt/tiefgestellt
 
 E=MC<sup>2</sup> mit sup wird es hochgestellt
