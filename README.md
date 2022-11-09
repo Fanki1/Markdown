@@ -91,8 +91,7 @@ man kann code mit drei anführungszeichen am anfang und ende vom code
 ## [Fußnote](https://github.com/markdown-it/markdown-it-footnote)
 
 Footnote 1 link[^first].
-[^first]: Fußnote
-diese können mit einem [^beispiel] nach dem wort gesetzt werden aber sie müssen deklariert werden mit [^bsp]: bsp
+[^first]: Fußnoten können mit einem [^beispiel] nach dem wort gesetzt werden aber sie müssen deklariert werden mit [^bsp]: bsp
 
 ## hochgestellt/tiefgestellt
 
