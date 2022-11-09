@@ -82,7 +82,7 @@ man kann code mit drei anführungszeichen am anfang und ende vom code
 | ext    | extension to be used for dest files. |
 
 
-##Blockzitate
+## Blockzitate
 
 > Blockzitate werden mit ">" gekennzeichnet
 >> mit mehreren werden diese mehr eingeschoben
@@ -94,12 +94,13 @@ Footnote 1 link[^first].
 [^first]: Fußnote
 diese können mit einem [^beispiel] nach dem wort gesetzt werden aber sie müssen deklariert werden mit [^bsp]: bsp
 
-##hochgestellt/tiefgestellt
+## hochgestellt/tiefgestellt
 
 E=MC<sup>2</sup> mit sup wird es hochgestellt
 Pflanzen benötigen CO<sub>2</sub> mit sub wird es tiefgestellt
-#Quellen
 
-[Wikipedia](https://de.wikipedia.org/wiki/Markdown)
-[markdown demo](https://markdown-it.github.io/)
+# Quellen
+
+[Wikipedia, ](https://de.wikipedia.org/wiki/Markdown)
+[Markdown Demo, ](https://markdown-it.github.io/)
 [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
