@@ -43,9 +43,9 @@ Inline `code`
 Indented code
 
     // Some comments
-    
-    line 2 of code
-    line 3 of code
+    zeile 1 von code
+    zeile 2 von code
+    zeile 3 von code
 
 
 Block code "fences"
@@ -63,6 +63,7 @@ var foo = function (bar) {
 
 console.log(foo(5));
 ```
+man kann code mit drei anführungszeichen am anfang und ende vom code
 
 ## Tabellen
 
@@ -93,8 +94,10 @@ Footnote 1 link[^first].
 [^first]: Fußnote
 diese können mit einem [^beispiel] nach dem wort gesetzt werden aber sie müssen deklariert werden mit [^bsp]: bsp
 
+##hochgestellt/tiefgestellt
 
-
+E=MC<sup>2</sup> mit sup wird es hochgestellt
+Pflanzen benötigen CO<sub>2</sub> mit sub wird es tiefgestellt
 #Quellen
 
 [Wikipedia](https://de.wikipedia.org/wiki/Markdown)
