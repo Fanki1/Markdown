@@ -99,6 +99,8 @@ diese können mit einem [^beispiel] nach dem wort gesetzt werden aber sie müsse
 E=MC<sup>2</sup> mit sup wird es hochgestellt
 Pflanzen benötigen CO<sub>2</sub> mit sub wird es tiefgestellt
 
+## deaktivierte Url verknüpfungen
+`https://de.wikipedia.org/wiki/Markdown` mit einem Anführungszeichen am anfang und ende vom link
 # Quellen
 
 [Wikipedia, ](https://de.wikipedia.org/wiki/Markdown)
