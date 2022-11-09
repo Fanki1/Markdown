@@ -18,6 +18,7 @@ Trennstriche kennzeichnet man mit dem < hr> tag
 **fett** werden Wörter geschrieben mit 2 * am anfang und ende vom wort
 *kursiv* geschrieben wird ein wort mit einem * am anfang und ende vom wort
 ~~durchgestrichen~~ mit ~ am start und ende vom wort
+==Markiert== mit = am start und ende vom wort
 ## Aufzählungen
 Man kann diese ungeordnet mit `+`, `-`, oder `*`erstellen z.B:
 
@@ -94,6 +95,7 @@ Footnote 1 link[^first].
 [^first]: Fußnoten können mit einem [^beispiel] nach dem wort gesetzt werden aber sie müssen deklariert werden mit [^bsp]: bsp
 
 ### Task listen
+
 z.B: Solar System Exploration, 1950s – 1960s
 - [ ] Mercury
 - [x] Venus
